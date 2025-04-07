@@ -1,7 +1,7 @@
 
 # 🧠 Atharva Yadav
 
-**`AI & Full-Stack Web Developer | 3x Hackathon Winner `**
+**`AI & Full-Stack Web Developer | 2x Hackathon Winner | Tech Explorer`**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Atharvayadav11-181717?style=flat&logo=github)](https://github.com/Atharvayadav11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva%20Yadav-blue?logo=linkedin)](https://www.linkedin.com/in/atharva-yadav-97338425a)
@@ -10,7 +10,6 @@
 
 🎓 **Engineering Student @ TSEC, University of Mumbai**  
 🔭 I’m currently working on projects that solve real-world problems using AI & web tech.  
-🏆 **Winner** of multiple 24-hour hackathons including CodeAstra, Hackwarts & JavaGenex.  
 🌱 Currently learning: Advanced AI, Cloud Deployment & System Design.  
 💬 Ask me about MERN stack, full-stack project building, or how to win a hackathon 😄  
 ⚡ Fun fact: I’m powered by coffee and late-night debugging sessions ☕  
@@ -33,8 +32,12 @@
 
 ## 💻 Featured Projects
 
+- 🆘 [**MediAid - Emergency Services Platform**](https://github.com/WannabeDeva/rgit-synergy):  
+  Voice-navigated emergency website for locating nearest hospitals, ambulances, fire stations, with SOS alerts and a medicine marketplace.  
+  _Tech: MERN Stack, Google Maps API, Twilio, Gemini LLM, Socket.io, Web Scraping_
+
 - 🔐 [**Aapka Rakshak**](https://github.com/Atharvayadav11/Rakshak): Real-time safety info & crime analysis with AI-powered image verification, heatmaps, and criminal detection.  
-  _Tech: Node.js, MongoDB, FaceAPI, HereMaps_
+  _Tech: MERN Stack, Here Maps, Socket.io, TensorFlow, FaceAPI, Cheerio_
 
 - 🥗 [**Aarogya Zen**](https://github.com/Atharvayadav11/AAROGYAZEN---PYTHONFULLSTACKPROJECT): WhatsApp Bot & GUI for fitness tracking using NutritionX API.  
   _Tech: Python, MongoDB, Twilio, CustomTkinter_
