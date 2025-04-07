@@ -1,7 +1,7 @@
 
 # 🧠 Atharva Yadav
 
-**`AI & Full-Stack Web Developer | Hackathon Winner | Tech Explorer`**
+**`AI & Full-Stack Web Developer | 3x Hackathon Winner `**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Atharvayadav11-181717?style=flat&logo=github)](https://github.com/Atharvayadav11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva%20Yadav-blue?logo=linkedin)](https://www.linkedin.com/in/atharva-yadav-97338425a)
